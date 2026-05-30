@@ -4,6 +4,10 @@ Aplicación móvil de planificación y gestión de viajes grupales.
 Centraliza itinerarios, presupuesto, gastronomía, álbum compartido
 y notificaciones en una única plataforma orientada al mercado hispanohablante.
 
+## Web del proyecto
+
+[Ver web de Roamly](https://carmencl61.github.io/Proyecto_Grupo_6_Curso_25_26/)
+
 ## Integrantes
 
 - Carmen Cerdán
